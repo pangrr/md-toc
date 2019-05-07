@@ -1,0 +1,24 @@
+{
+  "name": "@pangrr/mdtoc",
+  "version": "1.0.0",
+  "description": "Update table of contents while editing a markdown file.",
+  "main": "cli.js",
+  "scripts": {},
+  "bin": {
+    "mdtoc": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangrr/md-toc.git"
+  },
+  "author": "Ran Pang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pangrr/md-toc/issues"
+  },
+  "homepage": "https://github.com/pangrr/md-toc#readme",
+  "dependencies": {
+    "markdown-toc": "^1.2.0",
+    "yargs": "^13.2.2"
+  }
+}
