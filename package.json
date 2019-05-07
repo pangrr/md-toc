@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pangrr/md-toc.git"
+    "url": "git+https://github.com/pangrr/mdtoc.git"
   },
   "author": "Ran Pang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pangrr/md-toc/issues"
+    "url": "https://github.com/pangrr/mdtoc/issues"
   },
-  "homepage": "https://github.com/pangrr/md-toc#readme",
+  "homepage": "https://github.com/pangrr/mdtoc#readme",
   "dependencies": {
     "markdown-toc": "^1.2.0",
     "yargs": "^13.2.2"
